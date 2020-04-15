@@ -3,3 +3,11 @@
 ################################################################################
 
 /wp-project.Data/bin/Debug/netcoreapp3.1
+/wp-project.Data/obj
+/wp-project.Services/bin/Debug/netcoreapp3.1
+/wp-project.Services/obj
+/wp-project.Test/bin/Debug/netcoreapp3.1
+/wp-project.Test/obj
+/.vs/wp-project/v16
+/wp-project.Web/bin/Debug/netcoreapp3.1
+/wp-project.Web/obj
